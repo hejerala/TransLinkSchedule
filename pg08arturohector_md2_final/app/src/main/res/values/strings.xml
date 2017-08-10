@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PG08ArturoHector_MD2_Final</string>
+    <string name="stop_edit_text_hint">Stop Number</string>
+    <string name="stop_button">Add Stop</string>
+    <string name="stop_button_remove">Remove</string>
+    <string name="bus_edit_text_hint">Number of Buses</string>
+    <string name="time_edit_text_hint">Time Frame</string>
+    <string name="search_button">Search Buses</string>
+</resources>
